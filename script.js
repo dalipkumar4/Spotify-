@@ -55,12 +55,12 @@ let songs = [
     coverPath: "cover/8.jpg",
   },
   {
-    songName: "I like the way you...",
+    songName: "I like the way...",
     filePath: "songs/9.mp3",
     coverPath: "cover/9.jpg",
   },
   {
-    songName: "We fell in love...",
+    songName: "We fell in...",
     filePath: "songs/10.mp3",
     coverPath: "cover/10.jpg",
   },
@@ -110,7 +110,7 @@ let songs = [
     coverPath: "cover/19.jpg",
   },
   {
-    songName: "Apna bana le knows",
+    songName: "Apna bana le",
     filePath: "songs/20.mp3",
     coverPath: "cover/20.jpg",
   },
