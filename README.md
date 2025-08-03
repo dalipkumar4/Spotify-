@@ -6,9 +6,9 @@ A simple and responsive **Spotify-style music player** built using **HTML**, **C
 
 - 🎧 Play / Pause music
 - ⏭️ Switch between songs (Next / Previous)
-- 🎵 Auto-update song title, artist name, and cover image
+- 🎵 Auto-update song title, and cover image
 - 📊 Dynamic progress bar that syncs with the music
-- 🔊 Basic responsive layout using plain CSS
+- 🔊 Basic layout using plain CSS
 
 ## 🛠️ Tech Stack
 
