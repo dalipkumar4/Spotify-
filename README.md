@@ -27,7 +27,7 @@ spotify-clone/
 └── covers/
 
 ## 🖼️ Screenshots
-> ![Screenshot](assets/screenshot.png)
+> ![Screenshot](Assets/screenshot.png)
 
 ## 📦 How to Run
 
